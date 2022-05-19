@@ -1,4 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/roberta-cruz-094492200/](https://www.linkedin.com/in/roberta-cruz-094492200/))]([https://www.linkedin.com/in/roberta-cruz-094492200/](https://www.linkedin.com/in/roberta-cruz-094492200/))&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robertadev.bernardo123@gmail.com)](mailto:robertadev.bernardo123@gmail.com)
 
 # 👋 Hello World! 🌍
