@@ -2,13 +2,13 @@
 
 # 👋 Hello World! 🌍
 
-Hi! :v: My name is Roberta, I'm 26 years old and I live in the state of Santa Catarina/Brazil.
+Hi! :v: My name is Roberta, I'm 27 years old and I live in the state of Santa Catarina/Brazil.
 
-In February/2022 I decided to migrate and specialize as a backend developer. 
+In February/2022 I decided to migrate and specialize as a fullstack developer. 
 
-- Currently studying computer science at Descomplica(1st semester).
+- Currently studying computer science at Descomplica(2nd semester).
 - Bootcamps by IGTI.
-- General courses by Udemy and Alura.
+- General courses by Udemy, Origamid and Alura.
 
 ---
 
@@ -34,8 +34,8 @@ In February/2022 I decided to migrate and specialize as a backend developer.
 </p>
 
 ##  :blue_book: Improvement Courses
-- React Developer Bootcamp (on going - IGTI)
-- Python Course (on going - Udemy)
+- Frontend Developer Bootcamp (on going - IGTI)
+- UI/UX Design Course (on going - Origamid)
 - Python Developer Bootcamp (IGTI)
 
 ---
